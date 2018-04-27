@@ -44,3 +44,6 @@ E:\Download\An III\Sem II\Proiectare Software\Assignments\A2\Opera\Opera\bin\Deb
 E:\Download\An III\Sem II\Proiectare Software\Assignments\A2\Opera\Opera\bin\Debug\nunit.framework.dll
 E:\Download\An III\Sem II\Proiectare Software\Assignments\A2\Opera\Opera\bin\Debug\nunit.framework.pdb
 E:\Download\An III\Sem II\Proiectare Software\Assignments\A2\Opera\Opera\bin\Debug\nunit.framework.xml
+E:\Download\An III\Sem II\Proiectare Software\Assignments\Github\A2\Opera\Opera\bin\Debug\Opera.exe.config
+E:\Download\An III\Sem II\Proiectare Software\Assignments\Github\A2\Opera\Opera\obj\Debug\Opera.exe
+E:\Download\An III\Sem II\Proiectare Software\Assignments\Github\A2\Opera\Opera\obj\Debug\Opera.pdb
